@@ -40,7 +40,7 @@ This is a simple Streamlit app for analyzing data from a .dat file.
 4. Install the dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r nstl.spec
    ```
 
 ## Usage
